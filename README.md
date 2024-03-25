@@ -1,10 +1,10 @@
 # RICK AND MORTY EPISODES
 
 ## Requirements
-PHP 8.2.1
-node v20.9.0 (npm v10.1.0)
-Composer version 2.5.1
-VITE v5.2.6
+- PHP 8.2.1
+- node v20.9.0 (npm v10.1.0)
+- Composer version 2.5.1
+- VITE v5.2.6
 
 ## Installation
 
